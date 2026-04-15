@@ -1,0 +1,4 @@
+customer_segment,total_customers,churned,churn_rate_pct
+"New Customers (0-12 months)",2186,1037,47.44
+"Mid Customers (13-36 months)",1856,474,25.54
+"Loyal Customers (37+ months)",3001,358,11.93
